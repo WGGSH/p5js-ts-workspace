@@ -1,4 +1,4 @@
-import module = require('p5');
+import module = require("p5");
 // import * as p5Global from 'p5/global'
 
 export = module;
